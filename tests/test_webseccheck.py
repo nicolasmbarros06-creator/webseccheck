@@ -1,5 +1,7 @@
 import pytest
+
 from webseccheck import analyze, validate_target
+
 
 def test_validate_target_accepts_localhost():
     validate_target("http://127.0.0.1:8000")

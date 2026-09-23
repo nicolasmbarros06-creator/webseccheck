@@ -6,6 +6,7 @@ somente URLs com hostname localhost, 127.0.0.1 ou ::1 são aceitas.
 """
 
 from __future__ import annotations
+
 import argparse
 import sys
 from urllib.error import HTTPError, URLError
