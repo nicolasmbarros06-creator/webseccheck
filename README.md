@@ -31,7 +31,7 @@ ruff check .
 - `pyproject.toml` configuração e versão
 
 ## Pipeline
-O GitHub Actions executa lint, testes e uma verificação de dependências. A etapa SCA não falha o pipeline neste protótipo porque o projeto está em fase educacional; a evolução prevista é transformar vulnerabilidades críticas/altas em bloqueio.
+O GitHub Actions executa lint, testes e uma verificação de dependências. A etapa SCA não falha o pipeline neste protótipo porque o projeto está em fase educacional, a evolução prevista é transformar vulnerabilidades críticas/altas em bloqueio.
 
 ## Limitação importante
 Este projeto é destinado a laboratório próprio. Testes de segurança em sistemas de terceiros dependem de autorização explícita do responsável pelo sistema.
