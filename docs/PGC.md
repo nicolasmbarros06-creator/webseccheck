@@ -113,6 +113,9 @@ Este documento deve ser atualizado quando houver mudanças significativas na est
 
 **Histórico de revisão**
 
+## Histórico de alterações
+
+- 28/10/2026 — Revisão do plano de gestão e configuração do projeto.
 | Versão | Data | Descrição |
 |---|---|---|
 | 1.0 | 28/10/2026 | Elaboração inicial do PGC do WebSecCheck |
